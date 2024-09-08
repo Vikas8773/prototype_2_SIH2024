@@ -1,6 +1,6 @@
 # Apple Disease Detection
 
-This project explores the use of deep learning and image processing techniques to create a reliable system for spotting diseases in apple trees. The goal is to innovate agriculture by improving crop health monitoring and management.
+It explores the use of deep learning and image processing techniques to create a reliable system for spotting diseases in apple trees. The goal is to innovate agriculture by improving crop health monitoring and management.
 
 ## Introduction
 
@@ -21,10 +21,6 @@ We used the Keras library in Python to construct and train the CNN model. The ar
 ## Results
 
 The model achieved 91.5% accuracy on the training set and 67% on validation and test sets. It showed high accuracy for healthy apples but lower for blotch and rotten apples. Visualizations of convolutional layer activations provided insights into the learned features.
-
-## Web Application
-
-The project includes a simple web application for testing the apple disease detector. The web application is built using Flask and integrates HTMX for dynamic content updates. Access the application by running `main.py` and visiting [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ## Screenshots
 
