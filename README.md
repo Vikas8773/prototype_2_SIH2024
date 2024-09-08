@@ -4,7 +4,7 @@ It explores the use of deep learning and image processing techniques to create a
 
 ## Introduction
 
-This project aims to innovate agriculture by improving crop health monitoring and management through the use of deep learning and image processing techniques. It focuses on developing a machine learning model using Convolutional Neural Networks (CNNs) to detect and classify diseases in apple trees. The model is trained on a dataset of images of healthy and diseased apples, categorizing them into diseases like apple scab, blotch apple, and rotten apple.
+It aims to innovate agriculture by improving crop health monitoring and management through the use of deep learning and image processing techniques. It focuses on developing a machine learning model using Convolutional Neural Networks (CNNs) to detect and classify diseases in apple trees. The model is trained on a dataset of images of healthy and diseased apples, categorizing them into diseases like apple scab, blotch apple, and rotten apple.
 
 ## Dataset
 
