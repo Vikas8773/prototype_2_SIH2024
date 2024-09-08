@@ -29,10 +29,16 @@ The project includes a simple web application for testing the apple disease dete
 ## Screenshots
 
 - **Normal Apple**
-  ![Normal Apple](https://github.com/MrMDrX/Apple-Disease-Detection/blob/main/screenshots/normal_apple_detected.png)
+  ![Normal Apple](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/screenshots/normal%20apple.png)
 
 - **Blotch Apple**
-  ![Blotch Apple](https://github.com/MrMDrX/Apple-Disease-Detection/blob/main/screenshots/blotch_apple_detected.png)
+  ![Blotch Apple](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/screenshots/blotch%20apple.png)
+
+  - **Rotten Apple**
+  ![Blotch Apple](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/screenshots/rotten%20apple.png)
+
+- **Scab Apple**
+  ![Blotch Apple](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/screenshots/scab%20apple.png)
 
 ## Quick Start
 
