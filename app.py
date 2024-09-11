@@ -5,7 +5,7 @@ import numpy as np
 import io
 
 app = Flask(__name__)
-model = load_model('models/model.h5')  # Load your saved model
+model = load_model('model.h5')  # Load your saved model
 
 @app.route('/')
 def home():
