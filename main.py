@@ -29,7 +29,7 @@ def predict():
         predicted_class = class_names[predicted_class_idx]
         confidence = np.max(predictions)
 
-        return f"This Looks like a <b>{predicted_class}</b>, with {confidence*100:.2f} % confidence"
+        return f"Prediction:This Looks like a <b>{predicted_class}</b>, with {confidence*100:.2f} % confidence"
 
 if __name__ == '__main__':
     app.run(debug=True ,port=3000)
