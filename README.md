@@ -66,7 +66,7 @@ The model achieved 91.5% accuracy on the training set and 67% on validation and 
 5. Run the apple disease detector:\*\*
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 6. Open a web browser and navigate to `http://localhost:3000` to access the web application.
