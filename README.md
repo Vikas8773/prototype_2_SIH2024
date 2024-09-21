@@ -25,16 +25,16 @@ The model achieved 91.5% accuracy on the training set and 67% on validation and 
 ## Screenshots
 
 - **Normal Apple**
-  ![Normal Apple](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/screenshots/normal%20apple.png)
+  ![Normal Apple](https://github.com/Vikas8773/prototype_2_SIH2024/blob/main/screenshots/normal%20apple.png)
 
 - **Blotch Apple**
-  ![Blotch Apple](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/screenshots/blotch%20apple.png)
+  ![Blotch Apple](https://github.com/Vikas8773/prototype_2_SIH2024/blob/main/screenshots/blotch%20apple.png)
 
   - **Rotten Apple**
-  ![Blotch Apple](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/screenshots/rotten%20apple.png)
+  ![Rotten Apple](https://github.com/Vikas8773/prototype_2_SIH2024/blob/main/screenshots/normal%20apple.png)
 
 - **Scab Apple**
-  ![Blotch Apple](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/screenshots/scab%20apple.png)
+  ![Scab Apple](https://github.com/Vikas8773/prototype_2_SIH2024/blob/main/screenshots/scab%20apple.png)
 
 ## Quick Start
 
