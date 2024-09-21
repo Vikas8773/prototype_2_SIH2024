@@ -31,7 +31,7 @@ The model achieved 91.5% accuracy on the training set and 67% on validation and 
   ![Blotch Apple](https://github.com/Vikas8773/prototype_2_SIH2024/blob/main/screenshots/blotch%20apple.png)
 
   - **Rotten Apple**
-  ![Rotten Apple](https://github.com/Vikas8773/prototype_2_SIH2024/blob/main/screenshots/normal%20apple.png)
+  ![Rotten Apple](https://github.com/Vikas8773/prototype_2_SIH2024/blob/main/screenshots/rotten%20apple.png)
 
 - **Scab Apple**
   ![Scab Apple](https://github.com/Vikas8773/prototype_2_SIH2024/blob/main/screenshots/scab%20apple.png)
